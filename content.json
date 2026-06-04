@@ -88,11 +88,20 @@
       "is_open": false
     }
   ],
-  "design": {},
+  "design": {
+    "color_primary": "slate",
+    "color_secondary": "zinc",
+    "hero_gradient": "from-slate-950 via-zinc-900 to-slate-950",
+    "contact_gradient": "from-slate-950 to-zinc-900",
+    "section_dark_bg": "#020617",
+    "font_heading": "'Amatic SC', cursive",
+    "font_body": "'Varela Round', sans-serif",
+    "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Varela+Round&display=swap');"
+  },
   "sections": [
     {
       "id": "hero",
-      "variant": "F",
+      "variant": "A",
       "visible": true,
       "content": {
         "badge": {
