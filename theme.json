@@ -1,0 +1,11 @@
+{
+  "primary_color": "#f57c11",
+  "secondary_color": "#6d28d9",
+  "hero_gradient": "linear-gradient(135deg, #78350f 0%, #4c0519 50%, #1e1b4b 100%)",
+  "contact_gradient": "linear-gradient(135deg, #7c2d12 0%, #3f0f25 50%, #312e81 100%)",
+  "font_heading": "Karantina",
+  "font_body": "Assistant",
+  "font_google_import": "Karantina:wght@300;400;700&family=Assistant:wght@400;600;700",
+  "brand_personality": "עתיר יצירתיות, אותנטי, מתנהג בערמומיות מלכתחילה עם תשוקה לאיכות ופרטים.",
+  "logo_emoji": "Beer"
+}
