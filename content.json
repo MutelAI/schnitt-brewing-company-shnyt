@@ -1,7 +1,7 @@
 {
   "version": 2,
   "business": {
-    "name": "שניט",
+    "name": "שניט 22",
     "name_en": "SCHNITT BREWING COMPANY - שניט",
     "site_lang": "he",
     "available_langs": [
@@ -30,7 +30,6 @@
     "cache_key": "FRQTPrWRKGu2aktb9",
     "logo_url": "/images/logo.webp"
   },
-  "editToken": "56ca6a1a4f72e25e7a466ac8de71aaab",
   "hours": [
     {
       "day_key": "sunday",
